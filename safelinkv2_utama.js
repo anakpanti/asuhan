@@ -30,7 +30,7 @@ if(x=="6"){xxx="recently-released-news-from-u.html"}
 if(x=="7"){xxx="in-2011-japans-nuclear-regulator-raised.html"}
 if(x=="8"){xxx="the-main-purpose-of-sharing-my-near.html"}
 if(x=="9"){xxx="spread-awareness-and-reach-more-people.html"}
-if(x=="10"){xxx="i-have-to-say-at-outset-that-360.html"}a_to_ve[i].href="https://tinyurl.com/urldora11"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="10"){xxx="i-have-to-say-at-outset-that-360.html"}a_to_ve[i].href="https://tinyurl.com/urldora11/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
