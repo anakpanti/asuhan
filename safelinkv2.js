@@ -19,12 +19,18 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*4)+ 1);
+var x=Math.floor((Math.random()*10)+ 1);
 var xxx=null;
-if(x=="1"){xxx="the-way-to-start-business-at-home.html"}
-if(x=="2"){xxx="10-tips-for-start-small-business-startup.html"}
-if(x=="3"){xxx="advantages-of-being-home-business-owner.html"}
-if(x=="4"){xxx="practice-environmental-qwareness-to-our.html"}a_to_ve[i].href="https://kompisafelinkv2.blogspot.com/2016/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="in-essence-of-lean-david-hinds-explores.html"}
+if(x=="2"){xxx="this-timely-booklet-of-62-pages-may-be.html"}
+if(x=="3"){xxx="in-why-they-buy-cracking-personality.html"}
+if(x=="4"){xxx="multiple-myeloma-is-cancer-that.html"}
+if(x=="5"){xxx="as-someone-who-has-been-touched-by.html"}
+if(x=="6"){xxx="recently-released-news-from-u.html"}
+if(x=="7"){xxx="in-2011-japans-nuclear-regulator-raised.html"}
+if(x=="8"){xxx="the-main-purpose-of-sharing-my-near.html"}
+if(x=="9"){xxx="spread-awareness-and-reach-more-people.html"}
+if(x=="10"){xxx="i-have-to-say-at-outset-that-360.html"}a_to_ve[i].href="https://tinyurl.com/urldora11"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
